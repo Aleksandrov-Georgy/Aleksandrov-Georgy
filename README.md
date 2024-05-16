@@ -8,10 +8,10 @@
 </div>
 <hr/>
 <div id="badges" align="center">
-    <a href="https://t.me/Aleksandrov_Georgy" target="blank" >
+    <a href="https://t.me/Aleksandrov_Georgy" target="_blank" >
       <img alt="telegram" src="https://img.shields.io/badge/Telegram-blue?logo=telegram&logoColor=white&style=for-the-badge" height="30" />
     </a>
-    <a href="mailto:g.aleksandrov116@yandex.ru" target="blank" >
+    <a href="mailto:g.aleksandrov116@yandex.ru" target="_blank" >
       <img alt="telegram" src="https://img.shields.io/badge/Mail-blue?logo=gmail&logoColor=white&style=for-the-badge" height="30" />
     </a>
 </div>
