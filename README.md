@@ -16,8 +16,9 @@
     </a>
 </div>
 <hr/>
-<h3>Основной стек и технологии:</h3>
-<div>
+<h3 align="center">Основной стек и технологии:</h3>
+
+<div align="center">
     <img alt="react" title="REACT" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/react/react-original.svg" height="50"/>
     <img alt="next" title="NextJS" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/nextjs/nextjs-original.svg" height="50"/>
     <img alt="html" title="HTML" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/html5/html5-original.svg"  height="50"/>
@@ -38,6 +39,7 @@
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Aleksandrov-Georgy)](https://git.io/streak-stats)
 </div>
+
 
 <div align="center">
 
