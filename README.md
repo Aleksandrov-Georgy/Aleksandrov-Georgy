@@ -3,7 +3,7 @@
 <h2 align="center">Меня зовут Георгий, я Frontend-разработчик</h2>
 <h4 align="center">C 2022 года активно изучаю направление frontend разработки.</h4>
 <h4 align="center">«Найди себе дело по душе и тебе не придется работать ни дня в своей жизни», - сказал Конфуций.</h4>
-<h4 align="center">Именно по этому я здесь 🙂</h4>
+<h4 align="center">Именно поэтому я здесь 🙂</h4>
 
 <div id="header" align="center">
   <img alt="gif" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZHVubGFsajV3Yjlhbm9zODRjeGo0c2RiZXFjbnN2OWdoOXA4aW51ZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" height="400"/>
