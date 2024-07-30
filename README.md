@@ -35,6 +35,8 @@
     <img alt="FM" title="Framer Motion" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/framermotion/framermotion-original.svg"  height="50" />
     <img alt="Eslint" title="ESlint" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/eslint/eslint-plain.svg"  height="50" />
     <img alt="Axios" title="Axios" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/axios/axios-plain.svg"  height="50" />
+    <img alt="tailwind" title="tailwind" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/tailwindcss/tailwindcss-original.svg"  height="50" />
+    
 </div>
 
 <div align="center">
