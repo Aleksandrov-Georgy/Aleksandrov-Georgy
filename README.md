@@ -19,26 +19,6 @@
 </div>
 <hr/>
 <h3 align="center">Основной стек и технологии:</h3>
-
-<div align="center">
-    <img alt="react" title="REACT" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/react/react-original.svg" height="50"/>
-    <img alt="next" title="NextJS" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/nextjs/nextjs-original.svg" height="50"/>
-    <img alt="html" title="HTML" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/html5/html5-original.svg"  height="50"/>
-    <img alt="css3" title="CSS" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/css3/css3-original.svg"  height="50"/>
-    <img alt="sass" title="SASS" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/sass/sass-original.svg"  height="30"/>
-    <img alt="JS" title="JavaScript" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/javascript/javascript-original.svg"  height="50"/>
-    <img alt="TS" title="TypeScript" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/typescript/typescript-original.svg"  height="50"/>
-    <img alt="redux" title="Redux" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/redux/redux-original.svg"  height="50" />
-    <img alt="router"  title="React Router" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/reactrouter/reactrouter-original.svg"  height="50"/>
-    <img alt="npm" title="npm" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/npm/npm-original-wordmark.svg"  height="50" />
-    <img alt="MUI" title="MaterialUI" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/materialui/materialui-original.svg"  height="50" />
-    <img alt="FM" title="Framer Motion" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/framermotion/framermotion-original.svg"  height="50" />
-    <img alt="Eslint" title="ESlint" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/eslint/eslint-plain.svg"  height="50" />
-    <img alt="Axios" title="Axios" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/axios/axios-plain.svg"  height="50" />
-    <img alt="tailwind" title="tailwind" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/tailwindcss/tailwindcss-original.svg"  height="50" />
-    
-</div>
-
 <div align="center">
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Aleksandrov-Georgy)](https://git.io/streak-stats)
